@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SATKER 16\\work\\RestApiWithBlazort\\RestApiWithBlazort\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.RestApiWithBlazort.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.RestApiWithBlazort.props",
+      "PackagePath": "build\\RestApiWithBlazort.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.RestApiWithBlazort.props",
+      "PackagePath": "buildMultiTargeting\\RestApiWithBlazort.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.RestApiWithBlazort.props",
+      "PackagePath": "buildTransitive\\RestApiWithBlazort.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

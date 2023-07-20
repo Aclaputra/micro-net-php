@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "OKlcMhzxTOLEf8q0j6KZzlyCvcDNc7ldXulRKabf2f4=",
+  "Source": "RestApiWithBlazort",
+  "BasePath": "_content/RestApiWithBlazort",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RestApiWithBlazort\\wwwroot",
+      "Source": "RestApiWithBlazort",
+      "ContentRoot": "C:\\Users\\SATKER 16\\work\\RestApiWithBlazort\\RestApiWithBlazort\\wwwroot\\",
+      "BasePath": "_content/RestApiWithBlazort",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\SATKER 16\\work\\RestApiWithBlazort\\RestApiWithBlazort\\wwwroot\\css\\site.css",
+      "SourceId": "RestApiWithBlazort",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\SATKER 16\\work\\RestApiWithBlazort\\RestApiWithBlazort\\wwwroot\\",
+      "BasePath": "_content/RestApiWithBlazort",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    }
+  ]
+}

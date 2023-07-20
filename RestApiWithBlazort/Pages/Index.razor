@@ -1,0 +1,13 @@
+﻿@page "/"
+@page "/{Id:int}"
+@page "/{LName}"
+
+<h1>Hello, world!</h1>
+<p>Updating Student Id: @Id</p>
+<p>Updating Student Last Name: @LName</p>
+@code {
+	[Parameter]
+	public int? Id { get; set; }
+	[Parameter]
+	public string? LName { get; set; }
+}
